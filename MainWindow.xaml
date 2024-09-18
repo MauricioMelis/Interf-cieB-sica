@@ -7,8 +7,7 @@
                 VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10" 
                 Click="Botó1_Click"/>
         <Button Name="Botó2" Content="Reset" Width="100" Height="30" 
-                VerticalAlignment="Top" HorizontalAlignment="Left" Margin="120,10,0,0" 
-                Click="Botó2_Click"/>
+                VerticalAlignment="Top" HorizontalAlignment="Left" Margin="120,10,0,0" Click="Botó2_Click_1"/>
         <Label Name="Etiqueta" Content="Hola, món!" Width="200" Height="30" 
                 VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,50,0,0"/>
     </Grid>
